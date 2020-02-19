@@ -1,7 +1,7 @@
 <template>
-    <div>
-        <h1>Rightbar</h1>
-    </div>
+  <section class="rightbar">
+
+  </section>
 </template>
 <script>
     export default {
@@ -12,6 +12,6 @@
         }
     }
 </script>
-<style style="sass" scoped>
-
+<style lang="sass" scoped>
+    @import "../assets/components/RightSideBar"
 </style>
