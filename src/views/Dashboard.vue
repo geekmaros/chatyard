@@ -9,7 +9,7 @@
 <script>
 import LeftSideBar from "../components/LeftSideBar";
 import RightSideBar from "../components/RightSideBar";
-import Main from "../components/Main";
+import Main from "../components/MainBar";
 export default {
   data() {
     return{
